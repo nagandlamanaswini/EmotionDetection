@@ -1,0 +1,59 @@
+Admin Server
+
+
+Login,
+View All Users, 
+View All Friends Requests and Responses, 
+Add Tweet Category,
+Add Tweet Filter, 
+View All Tweets micro-blog with Users, 
+View Positive Emotion Tweets, 
+View Negative Emotion Tweets, 
+View Stressed Tweets, 
+View Neutral Emotions, 
+View All Tweets, 
+All Search History, 
+View Emotion Results
+
+
+OSN User
+
+
+Register and Login,
+View Profile, 
+Search Friend and Friend Request, 
+View All Friends,
+Create Tweet, 
+View all My created Tweets, 
+Friends Tweets and Retweets
+
+
+Members
+
+Tweet Image,Tweeter Name,Tweet Name Description,Date,Rank,Commented User,Comment,Date
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
